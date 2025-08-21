@@ -1,5 +1,5 @@
 # Image Processing OpenCV
-<img src="Output-Images/1/1-1.png" alt="Chart" width="600">
+<img src="Image Processing-OpenCV/Output-Images/1/1-1.png" alt="Chart" width="600">
 <img src="Output-Images/1-2.png" alt="Chart" width="600">
 <img src="Output-Images/1-3.png" alt="Chart" width="600">
 <img src="Output-Images/1-4.png" alt="Chart" width="600">
