@@ -15,7 +15,7 @@
 <img src="Image Processing-OpenCV/Output-Images/1/4-4.png" alt="Chart" width="600">
 <img src="Image Processing-OpenCV/Output-Images/1/5-1.png" alt="Chart" width="600">
 <img src="Image Processing-OpenCV/Output-Images/1/6-1.png" alt="Chart" width="600">
-<img src="Image Processing-OpenCV/Output-Images/1/6-1.png" alt="Chart" width="600">
+<img src="Image Processing-OpenCV/Output-Images/1/2/6-1.png" alt="Chart" width="600">
 <img src="Image Processing-OpenCV/Output-Images/1/6-2.png" alt="Chart" width="600">
 <img src="Image Processing-OpenCV/Output-Images/1/6-3.png" alt="Chart" width="600">
 <img src="Image Processing-OpenCV/Output-Images/1/6-4.png" alt="Chart" width="600">
